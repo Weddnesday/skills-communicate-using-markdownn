@@ -2,4 +2,4 @@
 
 ### DECEMBER
 
-![The change starts with the death of the stories.](https://www.pexels.com/search/hd%20background/)
+![The change starts with the death of the stories.](https://octodex.github.com/images/yaktocat.png))
