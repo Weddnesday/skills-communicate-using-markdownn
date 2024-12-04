@@ -7,3 +7,6 @@
 ```javascript
 var myVar ="Hello World!";
 ```
+- [X] OBSERVE
+- [ ] TRUTH
+- [ ] VISION
